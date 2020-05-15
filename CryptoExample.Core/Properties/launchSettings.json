@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CryptoExample.Core": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Password1234\""
+    }
+  }
+}
